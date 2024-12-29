@@ -1,7 +1,3 @@
-## External Resources
-
-For additional information and resources, visit [Thakur Bhavesh's website](http://thakurbhavesh.wuaze.com/).
-
 # Email Validation Service
 
 ## Overview
